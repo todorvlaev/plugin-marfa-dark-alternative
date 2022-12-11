@@ -45,7 +45,7 @@
 	}
 
 	nav.main-nav a:hover {
-		color: #FF77A8;
+		color: #F8F8F8;
 	}
 
 	nav.main-nav a.cta {
@@ -55,7 +55,7 @@
 	}
 
 	nav.main-nav a.cta:hover {
-		color: #2a2828;
+		color: #F8F8F8;
 		background-color: #FF77A8;
 		border: 2px solid #FF77A8;
 	}
