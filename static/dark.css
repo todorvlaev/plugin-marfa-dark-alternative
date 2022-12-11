@@ -4,7 +4,7 @@
 
 	body {
 		color: #F8F8F8;
-		background: #2E3440;
+		background: #2B2A33;
 	}
 
 	h1, h2, h3 {
@@ -40,7 +40,7 @@
 	}
 
 	nav.main-nav {
-		background: #2A2828;
+		background: #21262F;
 		padding: 12px 20px 12px 0;
 		position: sticky;
 		top: 0;
@@ -55,7 +55,7 @@
 	}
 
 	nav.main-nav a.cta {
-		background: #2A2828;
+		background: ##21262F;
 		color: #FF77A8;
 		border: 2px solid #FF77A8;
 	}
