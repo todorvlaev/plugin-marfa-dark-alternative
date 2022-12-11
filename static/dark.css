@@ -41,7 +41,7 @@
 	}
 
 	nav.main-nav a {
-		color: #90A3cA
+		color: #FF77A8
 	}
 
 	nav.main-nav a:hover {
@@ -50,8 +50,8 @@
 
 	nav.main-nav a.cta {
 		background: #2A2828;
-		color: #90A3cA;
-		border: 2px solid #90A3cA;
+		color: #FF77A8;
+		border: 2px solid #FF77A8;
 	}
 
 	nav.main-nav a.cta:hover {
@@ -72,7 +72,7 @@
 	}
 
 	#post-meta div a {
-		color: #90A3cA;
+		color: #FF77A8;
 	}
 
 	#post-meta div a:hover {
@@ -89,7 +89,7 @@
 	}
 
 	.dates {
-		color: #90A3cA;
+		color: #FF77A8;
 	}
 
 	.dates:hover {
@@ -104,7 +104,7 @@
 	}
 
 	#footer a {
-		color: #90A3cA;
+		color: #FF77A8;
 	}
 
 	#footer a:hover {
