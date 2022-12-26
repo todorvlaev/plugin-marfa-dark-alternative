@@ -25,6 +25,7 @@
 
 	b, strong {
 		color: #FFFFFF;
+		font-weight: bold;
 	}
 	
 	span.divider {
